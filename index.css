@@ -1,2 +1,6 @@
 @import "vendor/bulma.css";
 @import "vendor/bulma-prefers-dark.css";
+
+nav {
+  padding: 1rem 2rem;
+}
