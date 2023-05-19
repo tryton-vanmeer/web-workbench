@@ -1,6 +1,11 @@
 @import "vendor/bulma.css";
 @import "vendor/bulma-prefers-dark.css";
 
+@import "vendor/fontawesome/css/fontawesome.min.css";
+@import "vendor/fontawesome/css/regular.min.css";
+@import "vendor/fontawesome/css/solid.min.css";
+@import "vendor/fontawesome/css/brands.min.css";
+
 nav {
   padding: 1rem 2rem;
 }
